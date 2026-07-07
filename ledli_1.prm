@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX4
+Size               16M
+Start Address      0x00000000
+End Address        0x00FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0021728B    May 28 18:31:05 2026    /home/wroomhers/Desktop/bitirme/pcie_xdma_ddr_ai_accel_test/pcie_xdma_ddr_ai_accel_test.runs/impl_1/PCIe_wrapper.bit

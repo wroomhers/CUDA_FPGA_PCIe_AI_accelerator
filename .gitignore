@@ -1,0 +1,16 @@
+
+# Vivado generated outputs
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.gen/
+*.sim/
+
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.jou
+*.log
+*.wdb
