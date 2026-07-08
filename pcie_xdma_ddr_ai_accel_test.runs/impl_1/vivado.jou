@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Thu May 28 18:28:15 2026
+# Process ID         : 174357
+# Current directory  : /home/wroomhers/Desktop/bitirme/pcie_xdma_ddr_ai_accel_test/pcie_xdma_ddr_ai_accel_test.runs/impl_1
+# Command line       : vivado -log PCIe_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PCIe_wrapper.tcl -notrace
+# Log file           : /home/wroomhers/Desktop/bitirme/pcie_xdma_ddr_ai_accel_test/pcie_xdma_ddr_ai_accel_test.runs/impl_1/PCIe_wrapper.vdi
+# Journal file       : /home/wroomhers/Desktop/bitirme/pcie_xdma_ddr_ai_accel_test/pcie_xdma_ddr_ai_accel_test.runs/impl_1/vivado.jou
+# Running On         : lyec
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.4 LTS
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-13650HX
+# CPU Frequency      : 2352.869 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 33246 MB
+# Swap memory        : 8589 MB
+# Total Virtual      : 41836 MB
+# Available Virtual  : 31073 MB
+#-----------------------------------------------------------
+source PCIe_wrapper.tcl -notrace
